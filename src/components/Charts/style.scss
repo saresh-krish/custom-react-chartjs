@@ -1,0 +1,25 @@
+.chart-view {
+  width: 60%;
+}
+
+.chart_label {
+  position: absolute;
+  right: 0;
+  top: 0;
+
+  .label-sec {
+    cursor: pointer;
+    display: flex;
+    margin-bottom: 7px;
+  }
+  .label-line {
+    height: 24px;
+    margin-right: 8px;
+  }
+  .label-text {
+    font-size: 14px;
+  }
+  .label-amount {
+    font-size: 20px;
+  }
+}

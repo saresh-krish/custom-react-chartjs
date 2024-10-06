@@ -1,0 +1,118 @@
+{
+  "id": "subscriptions/ec2072b2-1b66-4d78-be29-d5a4e5520ee4/providers/Microsoft.CostManagement/query/476f5627-2879-4e33-b475-a13c42cce290",
+  "name": "476f5627-2879-4e33-b475-a13c42cce290",
+  "type": "Microsoft.CostManagement/query",
+  "location": null,
+  "sku": null,
+  "eTag": null,
+  "properties": {
+    "nextLink": null,
+    "columns": [
+      { "name": "Cost", "type": "Number" },
+      { "name": "UsageDate", "type": "Number" },
+      { "name": "ResourceGroupName", "type": "String" },
+      { "name": "ServiceName", "type": "String" },
+      { "name": "ResourceLocation", "type": "String" },
+      { "name": "Tags", "type": "Array" },
+      { "name": "Currency", "type": "String" }
+    ],
+    "rows": [
+      [
+        131.780352,
+        20241001,
+        "asisaas-rg",
+        "Azure App Service",
+        "Asia",
+        [],
+        "INR"
+      ],
+      [25.95672, 20241001, "dev-rg", "Azure App Service", "US East", [], "INR"],
+      [10.003354409296, 20241001, "dev-rg", "Bandwidth", "AU East", [], "INR"],
+      [
+        11.47482168972391,
+        20241001,
+        "dev-rg",
+        "Log Analytics",
+        "IN Central",
+        [],
+        "INR"
+      ],
+      [107.429288, 20241001, "uat-rg", "SQL Database", "IN Central", [], "INR"],
+      [50.141013599352, 20241001, "dev-rg", "Storage", "IN Central", [], "INR"],
+      [
+        131.780352,
+        20241002,
+        "asisaas-rg",
+        "Azure App Service",
+        "IN Central",
+        [],
+        "INR"
+      ],
+      [25.95672, 20241002, "dev-rg", "Azure App Service", "US East", [], "INR"],
+      [20.003653910126, 20241002, "dev-rg", "Bandwidth", "AU East", [], "INR"],
+      [
+        1.43412297715108,
+        20241002,
+        "dev-rg",
+        "Log Analytics",
+        "IN Central",
+        [],
+        "INR"
+      ],
+      [107.429288, 20241002, "uat-rg", "SQL Database", "IN Central", [], "INR"],
+      [0.141013599352, 20241002, "dev-rg", "Storage", "IN Central", [], "INR"],
+      [
+        131.780352,
+        20241003,
+        "dev-rg",
+        "Azure App Service",
+        "IN Central",
+        [],
+        "INR"
+      ],
+      [25.95672, 20241003, "dev-rg", "Azure App Service", "US East", [], "INR"],
+      [0.010502495772, 20241003, "dev-rg", "Bandwidth", "AU East", [], "INR"],
+      [
+        1.47186020038712,
+        20241003,
+        "dev-rg",
+        "Log Analytics",
+        "IN Central",
+        [],
+        "INR"
+      ],
+      [107.429288, 20241003, "dev-rg", "SQL Database", "IN Central", [], "INR"],
+      [0.140976993752, 20241003, "dev-rg", "Storage", "IN Central", [], "INR"],
+      [
+        76.871872,
+        20241004,
+        "dev-rg",
+        "Azure App Service",
+        "IN Central",
+        [],
+        "INR"
+      ],
+      [14.05989, 20241004, "dev-rg", "Azure App Service", "US East", [], "INR"],
+      [0.005031613944, 20241004, "dev-rg", "Bandwidth", "AU East", [], "INR"],
+      [
+        0.779094309565224,
+        20241004,
+        "dev-rg",
+        "Log Analytics",
+        "IN Central",
+        [],
+        "INR"
+      ],
+      [
+        58.1908643333334,
+        20241004,
+        "dev-rg",
+        "SQL Database",
+        "IN Central",
+        [],
+        "INR"
+      ],
+      [0.082293983922, 20241004, "dev-rg", "Storage", "IN Central", [], "INR"]
+    ]
+  }
+}
